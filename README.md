@@ -1,4 +1,4 @@
-# seb44_pre_016
+# Stack_Overflow
 
 ### 개요
 StackOverFlow를 기반으로 한 기능 클론 코딩 프로젝트
